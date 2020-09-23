@@ -1,5 +1,5 @@
 # zabbix-templates
-Template allows to monitor number of active recipients, number of completed recipietns per minute, number of injected (recieved by esa) messages per minute, number of connections and so on.
+Template allows to monitor your CISCO ESA ( IRONPORT ).  number of active recipients, number of completed recipietns per minute, number of injected (recieved by esa) messages per minute, number of connections and so on.
 For now there is no triggers.
 
 Installation: 
