@@ -3,7 +3,7 @@ Template allows to monitor number of active recipients, number of completed reci
 For now there is no triggers.
 
 Installation: 
-1) import athe template, 
+1) import the template, 
 2) create read_only_operator user in your ESA, 
 3) create and fill in value macros in zabbix ESA host: {$IRP_LOGIN} for login and {$IRP_PASS} for password (both created on step 2)
 4) link imported template to ESA host
